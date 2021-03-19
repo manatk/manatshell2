@@ -1,0 +1,11 @@
+python3 -m http.server 8000 &
+python3 -m http.server 8000
+python3 -m http.server 8000 &
+fg 32837
+git checkout dev
+git checkout manatshell.py
+git rebase master
+git pull https://github.com/manatk/manatshell.git
+exiy
+ere"
+
